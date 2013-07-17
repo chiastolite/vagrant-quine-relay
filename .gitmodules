@@ -1,0 +1,3 @@
+[submodule "quine-relay"]
+	path = quine-relay
+	url = https://github.com/mame/quine-relay.git
